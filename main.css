@@ -48,4 +48,20 @@ section {
     width: 20px;
     height: 20px;
     vertical-align: middle;
+    padding-left: 20px;
+}
+.topmenu li {
+    display:inline-block;
+    font-size: 1.5em;
+    text-align: right;
+}
+.topmenu.omega{
+    float:right;
+}
+ul{
+    margin: 0;
+}
+li>a
+{
+   font-size: 10px;
 }
